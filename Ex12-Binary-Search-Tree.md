@@ -1,4 +1,4 @@
-# Ex3B Binary Search Tree
+# Ex12 Binary Search Tree
 ## DATE: 18-03-2025
 ## AIM:
 To write a C function to insert the elements in the binary search tree
